@@ -1,0 +1,5 @@
+$ dig WWW.LUCARINALDI.COM+nostats +nocomments +nocmd
+  > ;WWW.LUCARINALDI.COM.                     IN      A
+  > WWW.LUCARINALDI.COM.              3592    IN      CNAME   RINALUCA15.github.io.
+  > RINALUCA15.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+  >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
